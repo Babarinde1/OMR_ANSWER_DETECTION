@@ -60,15 +60,18 @@ You may insert sample subject images like this:
 
 ```md
 ### Chemistry Extraction
-![Chemistry](uploads/subjects/chemistry.jpg)
+<img width="209" height="671" alt="image" src="https://github.com/user-attachments/assets/69c5952d-8628-47b9-b527-91b035567c06" />
+
 
 ### Physics Extraction
-![Physics](uploads/subjects/physics.jpg)
+<img width="174" height="660" alt="image" src="https://github.com/user-attachments/assets/d57a8e3d-3e9f-4315-a086-ec0c47935ed4" />
+
 ```
 
-Or hosted images:
+hosted images:
 ```md
-![OMR Example](https://your-image-url-here)
+<img width="1865" height="834" alt="image" src="https://github.com/user-attachments/assets/c0b2044d-e73e-48a8-a8cc-610140201fb3" />
+
 ```
 
 ---
